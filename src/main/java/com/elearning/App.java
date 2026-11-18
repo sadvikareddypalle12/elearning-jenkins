@@ -5,7 +5,7 @@ public class App {
 
     public static void main(String[] args) {
 
-        System.out.println("Welcome to E-Learning Management System!"
+        System.out.println("Welcome to E-Learning Management System!");
 
         System.out.println("Available Courses:");
 
